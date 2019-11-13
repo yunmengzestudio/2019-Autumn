@@ -5,4 +5,5 @@
 - 触发器函数种类：3种
 - start()运行时自动调用一次
 - update()每帧更新
+- 移动有基于刚体组件的addforce和transform.translate
 ************************
